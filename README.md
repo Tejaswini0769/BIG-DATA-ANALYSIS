@@ -30,3 +30,8 @@ This Jupyter Notebook, titled "COVID-19.ipynb", performs big data analysis on gl
 
 
 
+![Image](https://github.com/user-attachments/assets/d92dbe3c-6d40-42d9-982a-1dd5010585c5)
+
+
+
+
